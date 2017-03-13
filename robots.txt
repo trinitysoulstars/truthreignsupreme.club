@@ -1,0 +1,4 @@
+Sitemap: http://trinitysoulstars.github.io/TRS/sitemapindex.xml
+
+User-Agent: *
+Host: trinitysoulstars.github.io
